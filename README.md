@@ -1,5 +1,7 @@
 # Javascript Application Archetype
 
+[![Build Status](https://travis-ci.org/code-for-coffee/js-app-archetype.svg?branch=master)](https://travis-ci.org/code-for-coffee/js-app-archetype)
+
 Small, simple Javascript application archetype.
 
 Augment your existing project or start one from scratch!
